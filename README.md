@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate with other developers and contribute to meaningful projects  
 - 📫 You can reach me at coiregbu@gmail.com | [LinkedIn](https://www.linkedin.com/in/chimezirim-obodoukwu-iregbu-a13616309 )  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I’m a huge football fan — if I’m not coding, I’m probably watching a match or talking tactics  
+- ⚡ Fun fact: I’m a huge football fan — if I’m not coding, I’m probably watching a match or playing FIFA
