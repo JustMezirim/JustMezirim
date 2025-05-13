@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Chimezirim Obodoukwu-Iregbu (@JustMezirim)  
+- 👀 I’m interested in building cool web apps, real-time systems, and solving real-world problems with code  
+- 🌱 Currently learning React Native and exploring cloud tools like Appwrite  
+- 💞️ I’m looking to collaborate with other developers and contribute to meaningful projects  
+- 📫 You can reach me at coiregbu@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I’m a huge football fan — if I’m not coding, I’m probably watching a match or talking tactics  
